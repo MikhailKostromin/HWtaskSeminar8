@@ -26,5 +26,9 @@
 
 <img width="1280" alt="Снимок экрана 2024-02-26 в 00 06 50" src="https://github.com/MikhailKostromin/HWtaskSeminar8/assets/110930748/3104ca69-a97d-450d-846e-917b62ca8fda">
 
+Настройки  prometheus.yml
+
+<img width="1280" alt="Снимок экрана 2024-02-26 в 20 03 20" src="https://github.com/MikhailKostromin/HWtaskSeminar8/assets/110930748/f2776d4d-5c14-4d68-bad4-58c4d62981fb">
+
 
 
